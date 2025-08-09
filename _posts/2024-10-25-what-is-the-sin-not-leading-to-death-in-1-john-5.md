@@ -9,6 +9,9 @@ tags:
 - Exegesis
 - New Testament
 - Sin
+image:
+    path: assets\img\The_Bronze_Serpent.jpg
+    alt: Gustave Doré - The Bronze Serpent (Num. 21:4-9)
 ---
 
 

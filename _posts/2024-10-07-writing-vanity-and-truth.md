@@ -8,11 +8,15 @@ author: DanAgaf
 tags:
 - Truth
 - Vanity
+image:
+    path: assets\img\Valentin_de_Boulogne_-_Saint_Paul_Writing_His_Epistles.jpg
+    alt: Valentin de Boulognec - Saint Paul Writing His Epistles
 ---
 
 
 > And I gave my heart to seek and explore by wisdom concerning all that has been done under heaven. *It* is a grievous endeavor *which* God has given to the sons of men with which to occupy *themselves*. I have seen all the works which have been done under the sun, and behold, all is vanity and striving after wind. What is bent cannot be straightened, and what is lacking cannot be counted.
-> - Ecclesiastes 1:13-15
+>
+> Ecclesiastes 1:13-15
 
 So why write? If what the author of Ecclesiastes wrote is true then all is vanity — a striving after wind. 
 

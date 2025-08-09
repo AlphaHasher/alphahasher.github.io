@@ -8,6 +8,9 @@ author: DanAgaf
 tags:
 - Gospel
 - Old Testament
+image:
+    path: assets\img\TheFallofman-GospelImages.jpg
+    alt: Jan van't Hoff - The Fall of man
 ---
 
 

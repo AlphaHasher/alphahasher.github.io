@@ -8,6 +8,9 @@ author: DanAgaf
 tags:
 - Christianity
 - Jesus
+image:
+    path: assets\img\The_Birth_of_Jesus.jpg
+    alt: Bibelen i Billeder - The Birth of Jesus (1878)
 ---
 
 

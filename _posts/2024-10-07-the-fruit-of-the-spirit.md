@@ -7,6 +7,9 @@ type: post
 author: DanAgaf
 tags:
 - Fruit of the Spirit
+image:
+    path: assets\img\William_Hammer_-_Green_grapes_(1878).jpg
+    alt: William Hammer - Green grapes (1878)
 ---
 
 But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control. Against such things there is no law. Galatians 5:22-23

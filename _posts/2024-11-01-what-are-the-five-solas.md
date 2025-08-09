@@ -11,6 +11,9 @@ tags:
 - Faith
 - Jesus
 - Salvation
+image:
+    path: assets\img\Crooks-95theses.jpg
+    alt: F.W. Wehle - Dr. Martin Luther (1882)
 ---
 
 

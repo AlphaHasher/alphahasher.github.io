@@ -8,6 +8,9 @@ author: DanAgaf
 tags:
 - History
 - Jesus
+image:
+    path: assets\img\Sankt_Matthaeus_Kirke_Copenhagen_altarpiece_detail1.jpg
+    alt: Henrik Olrik - Sermon on the Mount
 ---
 
 

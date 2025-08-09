@@ -11,29 +11,21 @@ tags:
 - Bible
 - Hadith
 - Islam
-- Muslim
 - Quran
+image:
+    path: assets\img\BibleAndQuran.jpeg
 ---
-
-
-![](https://danielagafonov.wordpress.com/wp-content/uploads/2025/03/56d9e8f01e0000b30070356c-e1637693309776.jpeg)
 
 
 ### Jesus (from the Quran) Confirms the Bible
 
 > Surah 3:48-50  
 > And Allah will teach him writing and wisdom, the Torah and the Gospel,
-> 
-> 
-> 
-> 
+
 > and ˹make him˺ a messenger to the Children of Israel ˹to proclaim,˺ ‘I have come to you with a sign from your Lord: I will make for you a bird from clay, breathe into it, and it will become a ˹real˺ bird—by Allah’s Will. I will heal the blind and the leper and raise the dead to life—by Allah’s Will. And I will prophesize what you eat and store in your houses. Surely in this is a sign for you if you ˹truly˺ believe.
 > 
-> 
-> 
-> 
-> And I will confirm the Torah revealed before me and legalize some of what had been forbidden to you. I have come to you with a sign from your Lord, so be mindful of Allah and obey me.
 
+> And I will confirm the Torah revealed before me and legalize some of what had been forbidden to you. I have come to you with a sign from your Lord, so be mindful of Allah and obey me.
 
 
 

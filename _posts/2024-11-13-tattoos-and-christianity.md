@@ -11,6 +11,8 @@ tags:
 - Exegesis
 - Interpretation
 - Scripture
+image:
+    path: assets\img\hand-needle-leg-finger-tattoo-arm.jpg
 ---
 
 

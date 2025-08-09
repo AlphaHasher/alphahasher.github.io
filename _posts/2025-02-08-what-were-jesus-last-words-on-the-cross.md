@@ -8,6 +8,9 @@ author: DanAgaf
 tags:
 - Alleged Contradiction
 - Jesus
+image:
+    path: assets\img\The_Bible_panorama,_or_The_Holy_Scriptures_in_picture_and_story_(1891)_(14598401208).jpg
+    alt: Foster, William A (1891)
 ---
 
 

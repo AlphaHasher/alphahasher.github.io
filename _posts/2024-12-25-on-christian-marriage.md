@@ -9,6 +9,8 @@ tags:
 - Christianity
 - Love
 - Marriage
+image:
+    path: assets\img\marriage-ring.jpg
 ---
 
 
