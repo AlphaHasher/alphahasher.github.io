@@ -6,8 +6,8 @@ title: Writing, Vanity, and Truth
 type: post
 author: DanAgaf
 tags:
-- truth
-- vanity
+- Truth
+- Vanity
 ---
 
 

@@ -6,8 +6,8 @@ title: The Gospel
 type: post
 author: DanAgaf
 tags:
-- gospel
-- jesus
+- Gospel
+- Jesus
 ---
 
 

@@ -6,7 +6,7 @@ title: 'The Bible: Fact or Fiction?'
 type: post
 author: DanAgaf
 tags:
-- bible
+- Bible
 ---
 
 

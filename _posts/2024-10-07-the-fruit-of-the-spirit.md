@@ -6,7 +6,7 @@ title: The Fruit of the Spirit
 type: post
 author: DanAgaf
 tags:
-- fruit-of-the-spirit
+- Fruit of the Spirit
 ---
 
 But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control. Against such things there is no law. Galatians 5:22-23

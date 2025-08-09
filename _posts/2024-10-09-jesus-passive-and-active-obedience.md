@@ -6,8 +6,8 @@ title: Jesus' Passive and Active Obedience
 type: post
 author: DanAgaf
 tags:
-- jesus
-- new-testament
+- Jesus
+- New Testament
 ---
 
 

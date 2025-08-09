@@ -6,9 +6,9 @@ title: What Is the ‘Sin Not Leading to Death’ in 1 John 5
 type: post
 author: DanAgaf
 tags:
-- exegesis
-- new-testament
-- sin
+- Exegesis
+- New Testament
+- Sin
 ---
 
 

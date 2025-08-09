@@ -6,7 +6,7 @@ categories:
 title: Frank Laubach — The Missionary to the Illiterates
 type: post
 tags:
-- missions
+- Missions
 ---
 
 

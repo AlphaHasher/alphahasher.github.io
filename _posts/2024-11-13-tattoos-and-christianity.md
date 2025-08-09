@@ -6,11 +6,11 @@ title: Tattoos and Christianity
 type: post
 author: DanAgaf
 tags:
-- bible
-- christianity
-- exegesis
-- interpretation
-- scripture
+- Bible
+- Christianity
+- Exegesis
+- Interpretation
+- Scripture
 ---
 
 

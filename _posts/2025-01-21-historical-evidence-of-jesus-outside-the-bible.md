@@ -6,8 +6,8 @@ title: Historical Evidence of Jesus Outside the Bible
 type: post
 author: DanAgaf
 tags:
-- history
-- jesus
+- History
+- Jesus
 ---
 
 

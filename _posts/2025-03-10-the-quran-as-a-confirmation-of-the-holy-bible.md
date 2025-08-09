@@ -6,13 +6,13 @@ title: The Quran as a Confirmation of the Holy Bible
 type: post
 author: DanAgaf
 tags:
-- allah
-- apologetics
-- bible
-- hadith
-- islam
-- muslim
-- quran
+- Allah
+- Apologetics
+- Bible
+- Hadith
+- Islam
+- Muslim
+- Quran
 ---
 
 

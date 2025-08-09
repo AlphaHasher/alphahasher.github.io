@@ -6,11 +6,11 @@ title: What are the Five Solas?
 type: post
 author: DanAgaf
 tags:
-- bible
-- christianity
-- faith
-- jesus
-- salvation
+- Bible
+- Christianity
+- Faith
+- Jesus
+- Salvation
 ---
 
 

@@ -6,9 +6,9 @@ title: On Christian Marriage
 type: post
 author: DanAgaf
 tags:
-- christianity
-- love
-- marriage
+- Christianity
+- Love
+- Marriage
 ---
 
 

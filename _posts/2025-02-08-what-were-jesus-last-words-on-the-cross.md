@@ -6,8 +6,8 @@ title: What Were Jesus' Last Words On The Cross
 type: post
 author: DanAgaf
 tags:
-- alleged-contradiction
-- jesus
+- Alleged Contradiction
+- Jesus
 ---
 
 

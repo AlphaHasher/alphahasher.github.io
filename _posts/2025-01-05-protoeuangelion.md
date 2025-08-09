@@ -6,8 +6,8 @@ title: Protoeuangelion
 type: post
 author: DanAgaf
 tags:
-- gospel
-- old-testament
+- Gospel
+- Old Testament
 ---
 
 

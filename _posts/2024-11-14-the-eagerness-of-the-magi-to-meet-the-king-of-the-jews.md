@@ -6,8 +6,8 @@ title: The Eagerness of the Magi to Meet the King of the Jews
 type: post
 author: DanAgaf
 tags:
-- christianity
-- jesus
+- Christianity
+- Jesus
 ---
 
 
