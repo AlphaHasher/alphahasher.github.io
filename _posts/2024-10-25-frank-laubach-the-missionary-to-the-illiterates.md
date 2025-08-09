@@ -8,7 +8,7 @@ type: post
 tags:
 - Missions
 image:
-    path: assets\img\s-l1600.jpg
+    path: assets/img/s-l1600.jpg
     alt: Dr Laubach Teaching English to New Guinea Chieftain (1951)
 ---
 

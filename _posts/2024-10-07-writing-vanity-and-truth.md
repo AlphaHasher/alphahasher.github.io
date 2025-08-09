@@ -9,7 +9,7 @@ tags:
 - Truth
 - Vanity
 image:
-    path: assets\img\Valentin_de_Boulogne_-_Saint_Paul_Writing_His_Epistles.jpg
+    path: assets/img/Valentin_de_Boulogne_-_Saint_Paul_Writing_His_Epistles.jpg
     alt: Valentin de Boulognec - Saint Paul Writing His Epistles
 ---
 

@@ -10,7 +10,7 @@ tags:
 - Love
 - Marriage
 image:
-    path: assets\img\marriage-ring.jpg
+    path: assets/img/marriage-ring.jpg
 ---
 
 

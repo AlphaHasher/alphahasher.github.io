@@ -12,7 +12,7 @@ tags:
 - Interpretation
 - Scripture
 image:
-    path: assets\img\hand-needle-leg-finger-tattoo-arm.jpg
+    path: assets/img/hand-needle-leg-finger-tattoo-arm.jpg
 ---
 
 

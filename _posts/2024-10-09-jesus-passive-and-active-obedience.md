@@ -9,7 +9,7 @@ tags:
 - Jesus
 - New Testament
 image:
-    path: assets\img\Christ_in_Gethsemane.jpg
+    path: assets/img/Christ_in_Gethsemane.jpg
     alt: Heinrich Hofmann - Christ in Gethsemane
 ---
 

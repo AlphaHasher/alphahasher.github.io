@@ -13,7 +13,7 @@ tags:
 - Islam
 - Quran
 image:
-    path: assets\img\BibleAndQuran.jpeg
+    path: assets/img/BibleAndQuran.jpeg
 ---
 
 

@@ -8,7 +8,7 @@ author: DanAgaf
 tags:
 - Fruit of the Spirit
 image:
-    path: assets\img\William_Hammer_-_Green_grapes_(1878).jpg
+    path: assets/img/William_Hammer_-_Green_grapes_(1878).jpg
     alt: William Hammer - Green grapes (1878)
 ---
 

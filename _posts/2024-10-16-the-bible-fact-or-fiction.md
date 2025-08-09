@@ -8,7 +8,7 @@ author: DanAgaf
 tags:
 - Bible
 image:
-    path: assets\img\ParryIsaiahscroll.2.jpg
+    path: assets/img/ParryIsaiahscroll.2.jpg
     alt: Parry studies the Great Isaiah Scroll (1QIsa-a) in the Dead Sea Scrolls vault (scrollery), Israeli Museum, Jerusalem, Israel.
 ---
 
