@@ -59,12 +59,12 @@ If we apply the same restrictions that some Christians put on tattoos to shaving
 
 
 
-In this period (the time in which this law was written), there was a lot of worship centered around the dead. There was curses of the dead, worship of the dead, etc. Does this still apply to us today? I would say no because the law has been fulfilled by Christ (Matt 5:17\-20\). With this in mind I would however warn against getting a tattoo, even if it is not “for the dead.” Why? 2 reasons.
+In this period (the time in which this law was written), there was a lot of worship centered around the dead. There was curses of the dead, worship of the dead, etc. Does this still apply to us today? I would say no because the law has been fulfilled by Christ (Matt 5:17-20). With this in mind I would however warn against getting a tattoo, even if it is not “for the dead.” Why? 2 reasons.
 
 
 
 
-2. Tattoos focus on external adornment: In view of Paul’s counsel against adornment (1 Peter 3:3\) — being minimally external and maximally internal — and in view of his counsel that the adornment or the hair not signify excessive preoccupation with looks, I would say tattoos do go under this category because of their high preoccupation with looks, because to choose to get an adornment that will be with you forever is a too high\-level commitment to adornment.
+2. Tattoos focus on external adornment: In view of Paul’s counsel against adornment (1 Peter 3:3) — being minimally external and maximally internal — and in view of his counsel that the adornment or the hair not signify excessive preoccupation with looks, I would say tattoos do go under this category because of their high preoccupation with looks, because to choose to get an adornment that will be with you forever is a too high-level commitment to adornment.
 
 6. Missionary impact: Let's say that you get a tattoo today. That same tattoo may be a huge stumbling block among Muslim peoples God is going to take you to in 10 years. You don't know what the future holds.
 

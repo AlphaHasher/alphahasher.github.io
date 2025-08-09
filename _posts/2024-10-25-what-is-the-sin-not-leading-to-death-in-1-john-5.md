@@ -24,7 +24,7 @@ First before exegeting any passage of the Bible it needs to be understood its hi
 
 
 > Author:  
-> Unlike most NT letters, 1 John does not tell us who the author is. The earliest identification of him comes from the church fathers: Irenaeus (A.D. 140\-203\), Clement of Alexandria (A.D. 155\-215\), Tertullian (A.D. 150\-220\) and Origen (A.D. 185\-253\) all designated the writer as the apostle John. As far as we know, no one else was suggested by the early church.1
+> Unlike most NT letters, 1 John does not tell us who the author is. The earliest identification of him comes from the church fathers: Irenaeus (A.D. 140-203), Clement of Alexandria (A.D. 155-215), Tertullian (A.D. 150-220) and Origen (A.D. 185-253) all designated the writer as the apostle John. As far as we know, no one else was suggested by the early church.1
 > 
 > 
 > 
@@ -36,7 +36,7 @@ First before exegeting any passage of the Bible it needs to be understood its hi
 > 
 > 
 > Date:  
-> Irenaeus and Clement of Alexandria suggest the letter was written after John's Gospel (circa A.D. 85\) and before A.D. 95\.3
+> Irenaeus and Clement of Alexandria suggest the letter was written after John's Gospel (circa A.D. 85) and before A.D. 95.3
 
 
 
@@ -47,7 +47,7 @@ First before exegeting any passage of the Bible it needs to be understood its hi
 
 
 
-> 1 John 5:16\-17 \- LSB  
+> 1 John 5:16-17 - LSB  
 > If anyone sees his brother committing a sin not leading to death, he shall ask and God will for him give life to those who commit sin not leading to death. There is a sin leading to death; I do not say that he should make request for this. All unrighteousness is sin, and there is a sin not leading to death.
 
 
@@ -68,7 +68,7 @@ If John is speaking about physical death, then the interpretation goes like this
 
 
 
-In the broader context of this epistle there is a large emphasis made by John that Christians are not enslaved by sin. 1 John 3:9: "No one born of God makes a practice of sinning." Everywhere else where John talks about sinning (1:8ff), (2:1\-2\), (3:4ff), (5:16ff), nowhere does John makes reference to a physical death. It is for this reason that I find this interpretation lacking.
+In the broader context of this epistle there is a large emphasis made by John that Christians are not enslaved by sin. 1 John 3:9: "No one born of God makes a practice of sinning." Everywhere else where John talks about sinning (1:8ff), (2:1-2), (3:4ff), (5:16ff), nowhere does John makes reference to a physical death. It is for this reason that I find this interpretation lacking.
 
 
 

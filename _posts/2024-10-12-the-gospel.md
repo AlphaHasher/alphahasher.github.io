@@ -11,90 +11,41 @@ tags:
 ---
 
 
-
-
----
-
-
-
-
 All verses, unless stated otherwise are in the LSB translation.
-
-
 
 
 In this article I will attempt to describe something that cannot be put into words adequate enough to encompass the entire beauty and wonder of the gospel. I want to start with an apology because no matter how hard I try, whenever I talk about God, His goodness, His kindness, His tender mercies, His power, His faithfulness, I get angry with my own language. It’s just not sufficient. I cannot comprehend even His goodness to me. And what I have comprehended, I can’t communicate to you. The God that I am calling you to serve, I cannot exaggerate Him. He is infinitely greater than anything else in this world. His mercies are so wonderful, His love is so great, His faithfulness so sure that nothing can even hope to come close.
 
-
-
-
 The Holiness of God is something that is the subject of many tomes and volumes, and trying to describe it accurately is something that is best left to God Himself and the Holy Spirit inspired men who wrote the Bible.
 
-
-
-
-
-
 ---
-
-
 
 
 ## The Wrath of God
 
 
-
-
-
 > Romans 1:18
-> 
-> 
-> 
-> 
+
 > For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness
 
 
 
-
-
-
-
-
 > Psalm 5:5
-> 
-> 
-> 
-> 
+
 > The boastful shall not stand before Your eyes; You hate all workers of iniquity.
-
-
-
 
 ## The Charge:
 
 
-
-
 **Q:** How can God love and be love and yet the same time it says God is angry? How can a God of love send anyone to hell?
 
-
-
-
 **A:** God’s love it’s a good love, it’s a love that always does the right thing, it’s a love that delights in everything that is good. You see, this is where there is a fundamental difference in the understanding of what love is between God and man. Ours is sentimental love, His is Holy love. And His love is so great that He hates evil. Very few of us love enough to hate evil. You see, a love that rejoices in everything that is good is also a love that hates everything that’s evil.
-
-
-
 
 ## Paul condemns all sinful and evil actions
 
 
-
-
-
-> Romans 1:18\-32  
-> 18 For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness, 19 because that which is known about God is evident within them; for God made it evident to them. 20 For since the creation of the world His invisible attributes, both His eternal power and divine nature, have been clearly seen, being understood through what has been made, so that they are without excuse. 21 For even though they knew God, they did not glorify Him as God or give thanks, but they became futile in their thoughts, and their foolish heart was darkened. 22 Professing to be wise, they became fools, 23 and exchanged the glory of the incorruptible God for an image in the likeness of corruptible man and of birds and four\-footed animals and crawling creatures. 24 Therefore God gave them over in the lusts of their hearts to impurity, so that their bodies would be dishonored among them. 25 For they exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen. 26 For this reason God gave them over to dishonorable passions; for their females exchanged the natural function for that which is unnatural, 27 and in the same way also the males abandoned the natural function of the female and burned in their desire toward one another, males with males committing indecent acts and receiving in their own persons the due penalty of their error. 28 And just as they did not see fit to acknowledge God, God gave them over to an unfit mind, to do those things which are not proper, 29 having been filled with all unrighteousness, wickedness, greed, evil; full of envy, murder, strife, deceit, malice; *they are* gossips, 30 slanderers, haters of God, violent, arrogant, boastful, inventors of evil, disobedient to parents, 31 without understanding, untrustworthy, unloving, unmerciful; 32 and although they know the righteous requirement of God, that those who practice such things are worthy of death, they not only do the same, but also give hearty approval to those who practice *them.*
-
-
+> Romans 1:18-32  
+> 18 For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness, 19 because that which is known about God is evident within them; for God made it evident to them. 20 For since the creation of the world His invisible attributes, both His eternal power and divine nature, have been clearly seen, being understood through what has been made, so that they are without excuse. 21 For even though they knew God, they did not glorify Him as God or give thanks, but they became futile in their thoughts, and their foolish heart was darkened. 22 Professing to be wise, they became fools, 23 and exchanged the glory of the incorruptible God for an image in the likeness of corruptible man and of birds and four-footed animals and crawling creatures. 24 Therefore God gave them over in the lusts of their hearts to impurity, so that their bodies would be dishonored among them. 25 For they exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen. 26 For this reason God gave them over to dishonorable passions; for their females exchanged the natural function for that which is unnatural, 27 and in the same way also the males abandoned the natural function of the female and burned in their desire toward one another, males with males committing indecent acts and receiving in their own persons the due penalty of their error. 28 And just as they did not see fit to acknowledge God, God gave them over to an unfit mind, to do those things which are not proper, 29 having been filled with all unrighteousness, wickedness, greed, evil; full of envy, murder, strife, deceit, malice; *they are* gossips, 30 slanderers, haters of God, violent, arrogant, boastful, inventors of evil, disobedient to parents, 31 without understanding, untrustworthy, unloving, unmerciful; 32 and although they know the righteous requirement of God, that those who practice such things are worthy of death, they not only do the same, but also give hearty approval to those who practice *them.*
 
 
 Paul here makes is abundantly clear that people have turned away from God, opting to worship everything but the God who created them. And even though some might seem to worship God, they are doing it for selfish reasons. Thomas Aquinas (a theologian from the middle ages) said the reason people assume that the pagan is seeking after God is because we look  
@@ -102,59 +53,24 @@ at that person and we see that they’re seeking after the benefits that only Go
 They just want the benefits of God without Him. They’re seeking after the benefits that only God can give them all the while they're running as fast as they can away from God. But Paul does not step there, he continues his barrage.
 
 
-
-
-
-> Romans 2:1\-5
-> 
-> 
-> 
-> 
+> Romans 2:1-5
 > 1 Therefore you are without excuse, O man, everyone who passes judgment, for in that which you judge another, you condemn yourself; for you who judge practice the same things. 2 And we know that the judgment of God rightly falls upon those who practice such things. 3 But do you presume this, O man—who passes judgment on those who practice such things and does the same—that you will escape the judgment of God? 4 Or do you think lightly of the riches of His kindness and forbearance and patience, not knowing that the kindness of God leads you to repentance? 5 But because of your stubbornness and unrepentant heart you are storing up wrath for yourself in the day of wrath and revelation of the righteous judgment of God
-
-
-
 
 What Paul is saying here is that if you think yourself as being more righteous than those people he talked about earlier then you’re utterly mistaken. You are in fact just as bad as them.
 
-
-
-
-
-> Romans 3:10\-20, 23
-> 
-> 
-> 
-> 
+> Romans 3:10-20, 23
 > 10 as it is written, “There is none righteous, not even one;11 There is none who understands, There is none who seeks for God;12 All have turned aside, together they have become worthless; There is none who does good, There is not even one.”13 “Their throat is an open tomb, With their tongues they keep deceiving,” “The poison of asps is under their lips”;14 “Whose mouth is full of cursing and bitterness”;15 “Their feet are swift to shed blood,16 Destruction and misery are in their paths,17 And the path of peace they have not known.”18 “There is no fear of God before their eyes.” 23 for all have sinned and fall short of the glory of God.
 
-
-
-
 If you think of yourself as a morally good person, think again. You’re just as wicked. Even if you grew up in a good christian family and go to church as often as you can, read your Bible, and all the other good things that a christian should do, you are no better than the criminal who murders and steals.
-
-
-
 
 Why? Because Paul also mentions those people as well saying,
 
 
-
-
-
-> Romans 2:19\-23
-> 
-> 
-> 
-> 
+> Romans 2:19-23
 > 19 and are confident that you yourself are a guide to the blind, a light to those who are in darkness, 20 a corrector of the foolish, a teacher of the immature, having in the Law the embodiment of knowledge and of the truth, 21 you, therefore, who teach another, do you not teach yourself? You who preach that one shall not steal, do you steal? 22 You who say that one should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples? 23 You who boast in the Law, through your transgression of the Law, do you dishonor God?
 
 
-
-
 Now here Paul is specifically talking about the Jewish religious leaders of that time but this applies to our time just as it did then.
-
-
 
 
 ## “That’s Not Loving!”
@@ -162,7 +78,7 @@ Now here Paul is specifically talking about the Jewish religious leaders of that
 
 
 
-Imagine this scenario: I’m at the doctor’s office with my mother, waiting to hear the results from the tests the doctor ran on her. Now the doctor sits us down and tell my mother bad news, that she has cancer and it is very serious. Now my mother, being very stubborn does not believe this news and refuses to listen. The doctor knew this about my mother and came prepared, bringing a stack of evidence from all the test that were run. With each piece of evidence that the doctor brings up, all the X\-Ray’s and MRI’s, it makes her more and more upset, to the point of making her cry.
+Imagine this scenario: I’m at the doctor’s office with my mother, waiting to hear the results from the tests the doctor ran on her. Now the doctor sits us down and tell my mother bad news, that she has cancer and it is very serious. Now my mother, being very stubborn does not believe this news and refuses to listen. The doctor knew this about my mother and came prepared, bringing a stack of evidence from all the test that were run. With each piece of evidence that the doctor brings up, all the X-Ray’s and MRI’s, it makes her more and more upset, to the point of making her cry.
 
 
 
@@ -280,7 +196,7 @@ fierce judgment of God because God is love and hates evil. He was crushed under 
 
 
 
-> Acts 16:30b\-31  
+> Acts 16:30b-31  
 > “Sirs, what must I do to be saved?” And they said, “Believe in the Lord Jesus, and you will be saved, you and your house.”
 
 
@@ -359,7 +275,7 @@ When he left to go on the road to Damascus he left with orders to capture and ki
 
 
 
-You see to repent is to realize that all your thinking, your entire view about reality was wrong, and then to see and to submit to God's truth about who He is. Now the question is have you repented? Has your mind changed? Has that change of mind led to a change of the intellect, a change of the will, a change of your emotions, the sins you once loved, do you now hate? The Holiness you once ignored, do you now desire the Christ that you had no part with, that you lived apart from, do you now esteem Him? Do you consider the Kingdom of Heaven to be a pearl of great price (Matthew 13:45\-46\)? If so then those are certain evidences that a work of repentance has been done in your heart, that you were born again (John 3\).
+You see to repent is to realize that all your thinking, your entire view about reality was wrong, and then to see and to submit to God's truth about who He is. Now the question is have you repented? Has your mind changed? Has that change of mind led to a change of the intellect, a change of the will, a change of your emotions, the sins you once loved, do you now hate? The Holiness you once ignored, do you now desire the Christ that you had no part with, that you lived apart from, do you now esteem Him? Do you consider the Kingdom of Heaven to be a pearl of great price (Matthew 13:45-46)? If so then those are certain evidences that a work of repentance has been done in your heart, that you were born again (John 3).
 
 
 
@@ -389,5 +305,4 @@ Does A Real Christian Still Sin? Sadly enough yes. Can a real Christian fall int
 
 
 The Gospel of Jesus Christ is that God is just. That man is radically depraved, and worthy of all condemnation. That in order to forgive men, God’s justice had to be first satisfied, and that was done on the cross where Christ stood in the place of His people. Bore their sin, and was crushed under the full weight of God’s wrath against Him. In dying He paid the price in full, He rose from the dead, and now all men everywhere may be saved through faith, through repentance, and faith in Jesus Christ. And the evidence of that repentance and faith unto salvation will be the continuing work of God leading to holiness.
-
 

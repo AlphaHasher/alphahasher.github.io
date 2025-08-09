@@ -17,7 +17,7 @@ The first time the gospel was promised in the Old Testament was in the context o
 
 
 
-> Genesis 3:14\-19  
+> Genesis 3:14-19  
 > 14 And Yahweh God said to the serpent,“Because you have done this,  
 > Cursed are you more than any of the cattle,  
 > And more than every beast of the field;  

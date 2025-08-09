@@ -16,7 +16,7 @@ A common argument I hear being voiced is that we don't have evidence for Jesus o
 
 
 
-# Tasictus (c. 56\-120 AD):
+# Tasictus (c. 56-120 AD):
 
 
 
@@ -29,13 +29,13 @@ A common argument I hear being voiced is that we don't have evidence for Jesus o
 
 
 
-> Tasictus, Annals 15\.44  
+> Tasictus, Annals 15.44  
 > Christians derived their name from a man called Christus, who, during the reign of Emperor Tiberius had been executed by sentence of the procurator Pontius Pilate. The deadly superstition, thus checked for the moment, broke out afresh not only in Judea, the first source of the evil, but also in the City of Rome, where all things hideous and shameful from every part of the world meet and become popular.
 
 
 
 
-# Josephus (c. 37\-100 AD)
+# Josephus (c. 37-100 AD)
 
 
 
@@ -59,7 +59,7 @@ He wrote:
 
 
 
-# Suetonius (c. 69\-122 AD)
+# Suetonius (c. 69-122 AD)
 
 
 
@@ -69,7 +69,7 @@ Suetonius was a Roman historian who wrote about Jesus in *The Twelve Caesars*.
 
 
 
-# Babylonian Talmud, c. 200\-500 AD):
+# Babylonian Talmud, c. 200-500 AD):
 
 
 

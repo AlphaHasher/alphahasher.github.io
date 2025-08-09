@@ -17,7 +17,7 @@ tags:
 > 
 > 
 > 
-> Matthew 2:1\-2
+> Matthew 2:1-2
 
 
 
@@ -53,7 +53,7 @@ Do you desire to worship Christ like these magi from the east? Is your heart fil
 > 
 > 
 > 
-> Psalm 105:1\-5
+> Psalm 105:1-5
 
 
 

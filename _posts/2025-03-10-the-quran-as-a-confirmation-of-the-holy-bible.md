@@ -21,7 +21,7 @@ tags:
 
 ### Jesus (from the Quran) Confirms the Bible
 
-> Surah 3:48\-50  
+> Surah 3:48-50  
 > And Allah will teach him writing and wisdom, the Torah and the Gospel,
 > 
 > 
@@ -75,7 +75,7 @@ Muhammad, when he himself doubted, was told by Allah that he can rely on the “
 
 
 > Surah 6:115  
-> The Word of your Lord has been perfected in truth and justice. **None can change His Words**. And He is the All\-Hearing, All\- Knowing.
+> The Word of your Lord has been perfected in truth and justice. **None can change His Words**. And He is the All-Hearing, All- Knowing.
 
 
 
@@ -94,7 +94,7 @@ Muhammad, when he himself doubted, was told by Allah that he can rely on the “
 
 
 
-> Qur'an 5:43\-48 (Shakir)
+> Qur'an 5:43-48 (Shakir)
 > 
 > 
 > 
@@ -105,7 +105,7 @@ Muhammad, when he himself doubted, was told by Allah that he can rely on the “
 > 
 > 52. We ordained for them in the Torah, “A life for a life, an eye for an eye, a nose for a nose, an ear for an ear, a tooth for a tooth—and for wounds equal retaliation.” But whoever waives it charitably, it will be atonement for them. And those who do not judge by what Allah has revealed are ˹truly˺ the wrongdoers.
 > 
-> 56. Then in the footsteps of the prophets, We sent Jesus, son of Mary, **confirming the Torah revealed before him. And We gave him the Gospel** containing guidance and light and confirming what was revealed in the Torah—a guide and a lesson to the God\-fearing.
+> 56. Then in the footsteps of the prophets, We sent Jesus, son of Mary, **confirming the Torah revealed before him. And We gave him the Gospel** containing guidance and light and confirming what was revealed in the Torah—a guide and a lesson to the God-fearing.
 > 
 > 60. **So let the people of the Gospel judge by what Allah has revealed in it**. And those who do not judge by what Allah has revealed are ˹truly˺ the rebellious.
 > 
@@ -167,7 +167,7 @@ A direct quotation from:
 
 
 
-> Psalm 37:29 \- LSB  
+> Psalm 37:29 - LSB  
 > 29 The righteous will inherit the land  
 > And dwell in it forever.
 
@@ -223,7 +223,7 @@ So the Scriptures are authoritative in the Qur’an
 
 
 > Qur'an 2:97 (Shakir)  
-> "Say: Whoever is the enemy of Jibreel \-\- for surely he revealed it to your heart by Allah's command, verifying that which IS before it and guidance and good news for the believers."
+> "Say: Whoever is the enemy of Jibreel -- for surely he revealed it to your heart by Allah's command, verifying that which IS before it and guidance and good news for the believers."
 
 
 
@@ -253,7 +253,7 @@ So the Scriptures are authoritative in the Qur’an
 
 
 > Qur'an 3:81  
-> "And when God took compact with the Prophets: 'That I have given you of Book and Wisdom; then there shall come to you a Messenger confirming what IS with you \-\- you shall believe in him and you shall help him; do you agree?' He said. 'And do you take My load on you on that condition?' They said, 'We do agree.' God said, 'Bear witness so, and I shall be with you among the witnesses.'"
+> "And when God took compact with the Prophets: 'That I have given you of Book and Wisdom; then there shall come to you a Messenger confirming what IS with you -- you shall believe in him and you shall help him; do you agree?' He said. 'And do you take My load on you on that condition?' They said, 'We do agree.' God said, 'Bear witness so, and I shall be with you among the witnesses.'"
 
 
 
@@ -263,7 +263,7 @@ So the Scriptures are authoritative in the Qur’an
 
 
 > Qur'an 4:47  
-> "You who have been given the Book, believe in what We have sent down, confirming what IS with you, before We obliterate faces, and turn them upon their backs, or curse them as We cursed the Sabbath\-men, and God's command is done."
+> "You who have been given the Book, believe in what We have sent down, confirming what IS with you, before We obliterate faces, and turn them upon their backs, or curse them as We cursed the Sabbath-men, and God's command is done."
 
 
 
@@ -323,7 +323,7 @@ So the Scriptures are authoritative in the Qur’an
 
 
 > Qur'an 46:12  
-> "Yet before it was the Book of Moses for a model and a mercy; and this is a Book confirming, in Arabic tongue, to warn the evildoers, and good tidings to the good\-doers."
+> "Yet before it was the Book of Moses for a model and a mercy; and this is a Book confirming, in Arabic tongue, to warn the evildoers, and good tidings to the good-doers."
 
 
 
