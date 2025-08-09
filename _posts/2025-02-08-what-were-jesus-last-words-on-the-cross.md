@@ -1,7 +1,6 @@
 ---
 date: 2025-02-08 00:45:39+01:00
-tags:
-- pre-2010
+categories:
 - apologetics
 title: What Were Jesus' Last Words On The Cross
 type: post

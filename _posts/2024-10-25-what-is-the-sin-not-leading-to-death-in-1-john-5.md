@@ -1,7 +1,6 @@
 ---
 date: 2024-10-25 18:51:58+01:00
-tags:
-- pre-2010
+categories:
 - biblical-concepts
 title: What Is the ‘Sin Not Leading to Death’ in 1 John 5
 type: post

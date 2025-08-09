@@ -1,7 +1,6 @@
 ---
 date: 2024-10-16 20:29:51+01:00
-tags:
-- pre-2010
+categories:
 - apologetics
 title: 'The Bible: Fact or Fiction?'
 type: post

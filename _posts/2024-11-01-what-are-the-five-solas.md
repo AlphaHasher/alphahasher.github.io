@@ -1,7 +1,6 @@
 ---
 date: 2024-11-01 17:07:49+01:00
-tags:
-- pre-2010
+categories:
 - biblical-concepts
 title: What are the Five Solas?
 type: post

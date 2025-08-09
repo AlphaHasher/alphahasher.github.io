@@ -1,7 +1,6 @@
 ---
 date: 2025-01-21 01:50:27+01:00
-tags:
-- pre-2010
+categories:
 - apologetics
 title: Historical Evidence of Jesus Outside the Bible
 type: post

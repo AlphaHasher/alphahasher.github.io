@@ -1,7 +1,6 @@
 ---
 date: 2024-11-14 02:45:00+01:00
-tags:
-- pre-2010
+categories:
 - thoughts
 title: The Eagerness of the Magi to Meet the King of the Jews
 type: post

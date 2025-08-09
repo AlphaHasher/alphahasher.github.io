@@ -1,7 +1,6 @@
 ---
 date: 2024-10-09 23:44:47+01:00
-tags:
-- pre-2010
+categories:
 - biblical-concepts
 title: Jesus' Passive and Active Obedience
 type: post

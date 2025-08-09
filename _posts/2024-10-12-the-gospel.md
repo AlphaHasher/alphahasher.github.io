@@ -1,7 +1,6 @@
 ---
 date: 2024-10-12 06:36:54+01:00
-tags:
-- pre-2010
+categories:
 - biblical-concepts
 title: The Gospel
 type: post

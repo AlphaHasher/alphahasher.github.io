@@ -1,11 +1,10 @@
 ---
 date: 2024-10-25 05:47:11+01:00
-tags:
-- pre-2010
+author: DanAgaf
+categories:
 - thoughts
 title: Frank Laubach — The Missionary to the Illiterates
 type: post
-url: /2024/10/24/frank-laubach-the-missionary-to-the-illiterates/
 tags:
 - missions
 ---

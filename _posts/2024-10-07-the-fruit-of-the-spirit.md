@@ -1,7 +1,6 @@
 ---
 date: 2024-10-07 21:18:18+01:00
-tags:
-- pre-2010
+categories:
 - biblical-concepts
 title: The Fruit of the Spirit
 type: post

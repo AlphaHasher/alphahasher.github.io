@@ -1,7 +1,6 @@
 ---
 date: 2025-01-05 02:54:01+01:00
-tags:
-- pre-2010
+categories:
 - biblical-concepts
 title: Protoeuangelion
 type: post

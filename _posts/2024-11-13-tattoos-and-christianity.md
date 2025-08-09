@@ -1,7 +1,6 @@
 ---
 date: 2024-11-13 05:44:06+01:00
-tags:
-- pre-2010
+categories:
 - thoughts
 title: Tattoos and Christianity
 type: post

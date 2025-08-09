@@ -1,7 +1,6 @@
 ---
 date: 2024-12-25 06:59:57+01:00
-tags:
-- pre-2010
+categories:
 - thoughts
 title: On Christian Marriage
 type: post

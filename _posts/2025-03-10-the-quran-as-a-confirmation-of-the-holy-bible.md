@@ -1,7 +1,6 @@
 ---
 date: 2025-03-10 15:38:03+01:00
-tags:
-- pre-2010
+categories:
 - uncategorized
 title: The Quran as a Confirmation of the Holy Bible
 type: post
