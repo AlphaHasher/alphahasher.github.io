@@ -1,7 +1,7 @@
 ---
 date: 2024-10-07 07:51:08+01:00
 categories:
-- thoughts
+- Thoughts
 title: Writing, Vanity, and Truth
 type: post
 author: DanAgaf

@@ -1,7 +1,7 @@
 ---
 date: 2025-01-05 02:54:01+01:00
 categories:
-- biblical-concepts
+- Biblical Concepts
 title: Protoeuangelion
 type: post
 author: DanAgaf

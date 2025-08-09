@@ -1,7 +1,7 @@
 ---
 date: 2024-10-16 20:29:51+01:00
 categories:
-- apologetics
+- Apologetics
 title: 'The Bible: Fact or Fiction?'
 type: post
 author: DanAgaf

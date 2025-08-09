@@ -1,7 +1,7 @@
 ---
 date: 2024-12-25 06:59:57+01:00
 categories:
-- thoughts
+- Thoughts
 title: On Christian Marriage
 type: post
 author: DanAgaf

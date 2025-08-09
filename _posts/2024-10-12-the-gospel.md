@@ -1,7 +1,7 @@
 ---
 date: 2024-10-12 06:36:54+01:00
 categories:
-- biblical-concepts
+- Biblical Concepts
 title: The Gospel
 type: post
 author: DanAgaf

@@ -1,7 +1,7 @@
 ---
 date: 2024-10-09 23:44:47+01:00
 categories:
-- biblical-concepts
+- Biblical Concepts
 title: Jesus' Passive and Active Obedience
 type: post
 author: DanAgaf

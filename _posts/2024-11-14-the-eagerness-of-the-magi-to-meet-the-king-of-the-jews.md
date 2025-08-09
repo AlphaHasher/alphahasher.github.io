@@ -1,7 +1,7 @@
 ---
 date: 2024-11-14 02:45:00+01:00
 categories:
-- thoughts
+- Thoughts
 title: The Eagerness of the Magi to Meet the King of the Jews
 type: post
 author: DanAgaf
