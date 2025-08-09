@@ -4,7 +4,7 @@ categories:
 - apologetics
 title: 'The Bible: Fact or Fiction?'
 type: post
-url: /2024/10/16/the-bible-fact-or-fiction/
+author: DanAgaf
 tags:
 - bible
 ---

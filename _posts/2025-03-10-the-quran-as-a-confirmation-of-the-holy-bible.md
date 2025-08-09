@@ -4,7 +4,7 @@ categories:
 - uncategorized
 title: The Quran as a Confirmation of the Holy Bible
 type: post
-url: /2025/03/10/the-quran-as-a-confirmation-of-the-holy-bible/
+author: DanAgaf
 tags:
 - allah
 - apologetics

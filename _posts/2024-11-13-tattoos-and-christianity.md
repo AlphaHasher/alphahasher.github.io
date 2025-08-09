@@ -4,7 +4,7 @@ categories:
 - thoughts
 title: Tattoos and Christianity
 type: post
-url: /2024/11/12/tattoos-and-christianity/
+author: DanAgaf
 tags:
 - bible
 - christianity

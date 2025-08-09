@@ -4,7 +4,7 @@ categories:
 - biblical-concepts
 title: What Is the ‘Sin Not Leading to Death’ in 1 John 5
 type: post
-url: /2024/10/25/what-is-the-sin-not-leading-to-death-in-1-john-5/
+author: DanAgaf
 tags:
 - exegesis
 - new-testament

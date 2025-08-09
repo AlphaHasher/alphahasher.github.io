@@ -4,7 +4,7 @@ categories:
 - apologetics
 title: Historical Evidence of Jesus Outside the Bible
 type: post
-url: /2025/01/20/historical-evidence-of-jesus-outside-the-bible/
+author: DanAgaf
 tags:
 - history
 - jesus

@@ -4,7 +4,7 @@ categories:
 - thoughts
 title: On Christian Marriage
 type: post
-url: /2024/12/24/on-christian-marriage/
+author: DanAgaf
 tags:
 - christianity
 - love

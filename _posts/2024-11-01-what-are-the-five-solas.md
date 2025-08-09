@@ -4,7 +4,7 @@ categories:
 - biblical-concepts
 title: What are the Five Solas?
 type: post
-url: /2024/11/01/what-are-the-five-solas/
+author: DanAgaf
 tags:
 - bible
 - christianity

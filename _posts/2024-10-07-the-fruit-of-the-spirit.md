@@ -4,7 +4,7 @@ categories:
 - biblical-concepts
 title: The Fruit of the Spirit
 type: post
-url: /2024/10/07/the-fruit-of-the-spirit/
+author: DanAgaf
 tags:
 - fruit-of-the-spirit
 ---

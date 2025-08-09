@@ -1,5 +1,6 @@
 ---
 date: 2024-10-25 05:47:11+01:00
+author: DanAgaf
 categories:
 - thoughts
 title: Frank Laubach — The Missionary to the Illiterates

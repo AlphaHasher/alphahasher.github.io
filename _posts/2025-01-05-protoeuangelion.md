@@ -4,7 +4,7 @@ categories:
 - biblical-concepts
 title: Protoeuangelion
 type: post
-url: /2025/01/04/protoeuangelion/
+author: DanAgaf
 tags:
 - gospel
 - old-testament

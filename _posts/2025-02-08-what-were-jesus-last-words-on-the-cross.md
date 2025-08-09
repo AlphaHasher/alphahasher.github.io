@@ -4,7 +4,7 @@ categories:
 - apologetics
 title: What Were Jesus' Last Words On The Cross
 type: post
-url: /2025/02/07/what-were-jesus-last-words-on-the-cross/
+author: DanAgaf
 tags:
 - alleged-contradiction
 - jesus

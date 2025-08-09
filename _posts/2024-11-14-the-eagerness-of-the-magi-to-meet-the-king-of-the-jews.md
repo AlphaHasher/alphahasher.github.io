@@ -4,7 +4,7 @@ categories:
 - thoughts
 title: The Eagerness of the Magi to Meet the King of the Jews
 type: post
-url: /2024/11/13/the-eagerness-of-the-magi-to-meet-the-king-of-the-jews/
+author: DanAgaf
 tags:
 - christianity
 - jesus

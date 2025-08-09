@@ -4,7 +4,7 @@ categories:
 - thoughts
 title: Writing, Vanity, and Truth
 type: post
-url: /2024/10/07/writing-vanity-and-truth/
+author: DanAgaf
 tags:
 - truth
 - vanity

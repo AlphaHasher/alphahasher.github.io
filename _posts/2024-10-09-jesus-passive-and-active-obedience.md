@@ -4,7 +4,7 @@ categories:
 - biblical-concepts
 title: Jesus' Passive and Active Obedience
 type: post
-url: /2024/10/09/jesus-passive-and-active-obedience/
+author: DanAgaf
 tags:
 - jesus
 - new-testament

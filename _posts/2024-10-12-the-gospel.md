@@ -4,7 +4,7 @@ categories:
 - biblical-concepts
 title: The Gospel
 type: post
-url: /2024/10/11/the-gospel/
+author: DanAgaf
 tags:
 - gospel
 - jesus
