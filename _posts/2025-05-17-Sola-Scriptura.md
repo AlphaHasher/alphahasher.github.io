@@ -1,13 +1,13 @@
 ---
 date: 2025-05-17 12:00:00+08:00
 categories:
-- Biblical Concepts
+- 5 Solas
 title: Sola Scriptura
 type: post
 author: DanAgaf
 tags:
 - Solas
-- Sola-Scriptura
+- Sola Scriptura
 image:
     path: assets/img/cavins-jeff-scripture-is-tradition.jpg
 ---

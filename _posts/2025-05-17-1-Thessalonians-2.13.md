@@ -6,8 +6,7 @@ title: 1 Thessalonians 2:13
 type: post
 author: DanAgaf
 tags:
-  - Sola-Scriptura
-  - Exegesis
+  - Sola Scriptura
 ---
 
 > 1 Thessalonians 2:13 - LSB

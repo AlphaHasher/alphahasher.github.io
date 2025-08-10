@@ -6,7 +6,7 @@ title: Sola Ecclesia vs Three-Legged Stool
 type: post
 author: DanAgaf
 tags:
-  - Sola-Scriptura
+  - Sola Scriptura
 image:
     path: assets/img/3-legged-stool.jpg
 ---

@@ -6,7 +6,7 @@ title: 2 Thessalonians 2:15
 type: post
 author: DanAgaf
 tags:
-- Sola-Scriptura
+- Sola Scriptura
 ---
 
 > 2 Thessalonians 2:15 - LSB

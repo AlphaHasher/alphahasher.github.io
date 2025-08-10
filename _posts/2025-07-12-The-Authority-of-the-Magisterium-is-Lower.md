@@ -6,7 +6,7 @@ title: The Authority of the Magisterium is Lower Than Holy Scripture
 type: post
 author: DanAgaf
 tags:
-  - Sola-Scriptura
+  - Sola Scriptura
 image:
     path: assets/img/rome-magisterium.jpg
 ---
