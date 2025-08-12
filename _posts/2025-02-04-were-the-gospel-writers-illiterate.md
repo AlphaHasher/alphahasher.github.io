@@ -14,7 +14,7 @@ image:
     alt: Vasileios Chatzis - Fishing-Boat with Fishermen
 ---
 
-# Were They Not Illiterate?
+## Were They Not Illiterate?
 
 > Acts 4:13 - LSB
 >

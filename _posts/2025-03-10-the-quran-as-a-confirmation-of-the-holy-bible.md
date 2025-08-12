@@ -7,7 +7,6 @@ type: post
 author: DanAgaf
 tags:
 - Allah
-- Apologetics
 - Bible
 - Hadith
 - Islam

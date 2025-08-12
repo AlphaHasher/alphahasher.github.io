@@ -2,12 +2,12 @@
 date: 2024-08-24 12:00:00+08:00
 categories:
 - Biblical Concepts
+- Exegesis
 title: Apostasy In The Church
 type: post
 author: DanAgaf
 tags:
 - Apostasy
-- Exegesis
 image:
     path: assets/img/the-allure-of-apostasy.avif
 ---

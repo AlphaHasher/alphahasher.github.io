@@ -16,7 +16,7 @@ tags:
 
 [2 Thessalonians 2:15 Interlinear](https://biblehub.com/interlinear/2_thessalonians/2-15.htm)
 
-# Roman Catholic Interpretation
+## Roman Catholic Interpretation
 
 - Roman Catholic apologists, such as Gerry Matatix and Karlo Broussard, use this text to argue that the Apostle Paul gives equal status or value to paradosis (traditions), whether delivered by word of mouth (referred to as sacred tradition) or by letter (Scripture)
 
@@ -24,7 +24,7 @@ tags:
 
 - This oral tradition is understood to encompass everything later defined as dogma by Rome, including teachings about the papacy, Mary (Immaculate Conception, bodily assumption), the sacramental priesthood, purgatory, and indulgences.
 
-# Exegesis
+## Exegesis
 
 - This is a gross misreading and a misrepresentation of what Sola Scriptura teaches. Sola Scriptura does not deny that the Word of God was spoken during periods of revelation.
 
