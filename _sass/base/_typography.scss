@@ -55,9 +55,9 @@ img {
 }
 
 blockquote {
-  background-color: #0d1117; // Dark background
+  background-color: #131315; // Dark background
   border-radius: 0.5rem;
-  padding: 1rem 1.25rem;
+  padding: 0.5rem 1rem;
   position: relative;
   margin: 1.5rem 0;
   color: #e6edf3; // Light text color
@@ -65,20 +65,30 @@ blockquote {
   // Left border "accent"
   border-left: 4px solid #58a6ff;
 
-  // Quotation icon
-  &::before {
-    content: "❝";
-    position: absolute;
-    top: 0.75rem;
-    left: 0.75rem;
-    font-size: 1.5rem;
-    color: #8b949e;
+  // First paragraph as the title
+  & > p:first-child {
+    position: relative;
+    margin: 0 0 0.5rem 0;
+    padding: 0 0 0 1.5rem;
+    font-weight: bold;
+    color: #58a6ff;
+    border-radius: 0.05rem;
+
+    // Quotation icon positioned next to title
+    &::before {
+      content: "❝";
+      position: absolute;
+      top: 0;
+      left: 0;
+      font-size: 1.5rem;
+      color: #8b949e;
+    }
   }
 
-  // Text after the icon shifts right
-  p {
-    margin: 0;
-    padding-left: 2rem;
+  // Remaining content aligned with icon
+  & > p:not(:first-child),
+  & > *:not(:first-child) {
+    margin-top: 0.5rem;
     font-size: 0.95rem;
     line-height: 1.5;
   }
@@ -89,7 +99,6 @@ blockquote {
     font-style: normal;
     font-weight: 600;
     color: #c9d1d9;
-    margin-bottom: 0.25rem;
 
     em {
       font-style: italic;
@@ -97,6 +106,7 @@ blockquote {
     }
   }
 }
+
 
 kbd {
   font-family: Lato, sans-serif;

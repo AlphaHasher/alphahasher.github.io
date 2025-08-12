@@ -190,6 +190,7 @@ R.C Sproul noted that Romans 9:16 should be “the verse to end [[Arminianism]],
 
 
 > Ephesians 1:12 - RSV
+>
 > 12 - We who first hoped in Christ have been *destined and appointed* to live for the praise of his glory.
 >  
 
@@ -267,7 +268,7 @@ In Ephesians 1:4 Paul shows that men were chosen “in Christ” before the worl
 
 ### D. Election was based on the sovereign, distinguishing mercy of Almighty God. It was not man’s will but God’s will that determined which sinners would be shown mercy and saved. 
 
-> [!important] Exodus 33:19 - LSB
+> Exodus 33:19 - LSB
 >
 > <sup> 19 </sup>And He said, “I Myself will make all My goodness pass before you, and I will proclaim the name of Yahweh before you; and I will be gracious to whom I will be gracious, and I will show compassion on whom I will show compassion.”
  
