@@ -55,38 +55,47 @@ img {
 }
 
 blockquote {
-  border-left: 0.125rem solid var(--blockquote-border-color);
-  padding-left: 1rem;
-  color: var(--blockquote-text-color);
-  margin-top: 0.5rem;
+  background-color: #0d1117; // Dark background
+  border-radius: 0.5rem;
+  padding: 1rem 1.25rem;
+  position: relative;
+  margin: 1.5rem 0;
+  color: #e6edf3; // Light text color
 
-  > p:last-child {
-    margin-bottom: 0;
+  // Left border "accent"
+  border-left: 4px solid #58a6ff;
+
+  // Quotation icon
+  &::before {
+    content: "❝";
+    position: absolute;
+    top: 0.75rem;
+    left: 0.75rem;
+    font-size: 1.5rem;
+    color: #8b949e;
   }
 
-  &[class^='prompt-'] {
-    border-left: 0;
-    position: relative;
-    padding: 1rem 1rem 1rem 3rem;
-    color: var(--prompt-text-color);
+  // Text after the icon shifts right
+  p {
+    margin: 0;
+    padding-left: 2rem;
+    font-size: 0.95rem;
+    line-height: 1.5;
+  }
 
-    @extend %rounded;
+  // Citation (author + title)
+  cite {
+    display: block;
+    font-style: normal;
+    font-weight: 600;
+    color: #c9d1d9;
+    margin-bottom: 0.25rem;
 
-    &::before {
-      text-align: center;
-      width: 3rem;
-      position: absolute;
-      left: 0.25rem;
-      margin-top: 0.4rem;
-      text-rendering: auto;
-      -webkit-font-smoothing: antialiased;
+    em {
+      font-style: italic;
+      color: #8b949e;
     }
   }
-
-  @include mx.prompt('tip', '\f0eb', $fa-style: 'regular');
-  @include mx.prompt('info', '\f06a', $rotate: 180);
-  @include mx.prompt('warning', '\f06a');
-  @include mx.prompt('danger', '\f071');
 }
 
 kbd {
