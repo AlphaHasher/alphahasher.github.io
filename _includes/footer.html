@@ -1,0 +1,40 @@
+<!-- The Footer -->
+
+<footer
+  aria-label="Site Info"
+  class="
+    d-flex flex-column justify-content-center text-muted
+    flex-lg-row justify-content-lg-between align-items-lg-center pb-lg-3
+  "
+>
+  <a href="/copyright" class="text-decoration-none text-muted">
+    <p>
+      {{- '©' }}
+      {% assign current_year = 'now' | date: '%Y' %}
+        <time>2021-{{ current_year }}</time>
+
+      {% if site.social.links %}
+        <a href="{{ site.social.links[0] }}">{{ site.social.name }}</a>.
+      {% else %}
+        <em class="fst-normal">{{ site.social.name }}</em>.
+      {% endif %}
+
+      {% if site.data.locales[include.lang].copyright.brief %}
+        <span
+          data-bs-toggle="tooltip"
+          data-bs-placement="top"
+          title="{{ site.data.locales[include.lang].copyright.verbose }}"
+        >
+          {{- site.data.locales[include.lang].copyright.brief -}}
+        </span>
+      {% endif %}
+    </p>
+  </a>
+
+  <p>
+    <a href="https://www.ligonier.org/posts/simul-justus-et-peccator" target="_blank" rel="noopener">
+      Simul Justus et Peccator
+    </a>
+  </p>
+
+</footer>
