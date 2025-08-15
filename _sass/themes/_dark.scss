@@ -300,4 +300,29 @@
   .highlight .ss {
     color: #90a959;
   }
+
+  blockquote {
+    background-color: #18181bd1;
+    color: #dfdfdf;
+
+    & > p:first-child {
+      &::before {
+        color: #9c9c9c;
+      }
+    }
+
+    &.quote {
+      & > p {
+        color: #dfdfdf;
+      }
+    }
+
+    cite {
+      color: #dfdfdf;
+
+      em {
+        color: #dfdfdf;
+      }
+    }
+  }
 }

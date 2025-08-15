@@ -57,12 +57,10 @@ img {
 }
 
 blockquote {
-  background-color: rgba(19, 19, 21, 0.7);
   border-radius: 0.5rem;
   padding: 0.5rem 1rem;
   position: relative;
   margin: 0.5rem 0 1rem 0;
-  color: $blockquote-text; // Light text color
 
   // Left border "accent" - default blue
   border-left: 4px solid #58a6ff;
@@ -83,7 +81,6 @@ blockquote {
       top: 0;
       left: 0;
       font-size: 1.5rem;
-      color: #9c9c9c;
     }
   }
 
@@ -91,7 +88,6 @@ blockquote {
   & > p:not(:first-child),
   & > *:not(:first-child) {
     margin-top: 0.5rem;
-    // font-size: 0.95rem;
     line-height: 1.6;
   }
 
@@ -104,12 +100,10 @@ blockquote {
   &.quote {
     & > p {
       margin-top: 0.5rem;
-      // font-size: 0.99rem;
       line-height: 1.5;
       position: static;
       padding: 0;
       font-weight: normal;
-      color: $blockquote-text;
 
       &:first-child {
         margin-top: 0;
@@ -162,11 +156,9 @@ blockquote {
   cite {
     display: block;
     font-weight: 600;
-    color: $blockquote-text;
 
     em {
       font-style: italic;
-      color: $blockquote-text;
     }
   }
 }

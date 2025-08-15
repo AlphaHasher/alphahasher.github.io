@@ -306,4 +306,29 @@
     color: #24292f;
     font-weight: bold;
   }
+
+  blockquote {
+    background-color: #ededed68;
+    color: #495057;
+
+    & > p:first-child {
+      &::before {
+        color: #6c757d;
+      }
+    }
+
+    &.quote {
+      & > p {
+        color: #495057;
+      }
+    }
+
+    cite {
+      color: #495057;
+
+      em {
+        color: #6c757d;
+      }
+    }
+  }
 }
