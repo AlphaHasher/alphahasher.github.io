@@ -138,8 +138,9 @@ Nevertheless, the canons do not regard men as if they were soulless machines wit
  
 
 > Ephesians 2:1-5 - RSV
-> 1 - And you he *made alive*, when you were dead through the trespasses and sins
-> 5 - even when we were dead in our trespasses, (God) made us *alive* together with Christ…
+>
+> <sup> 1 </sup>And you he *made alive*, when you were dead through the trespasses and sins
+> <sup> 5 </sup>even when we were dead in our trespasses, (God) made us *alive* together with Christ…
 
 > Colossians 2:13 - LSB
 >

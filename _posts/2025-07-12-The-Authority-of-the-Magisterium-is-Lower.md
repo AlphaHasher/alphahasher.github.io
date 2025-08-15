@@ -22,6 +22,10 @@ Below are Roman Catholic sources saying that while the Magisterium is held to be
 
 In article 10, the document explicitly outlines the relationship between Sacred Tradition, Sacred Scripture, and the Magisterium, stating that the Magisterium is not superior to the Word of God, but its servant:
 
+
+
 > They are bound by the Word of God. For “the Magisterium is not above the Word of God but serves it, teaching only what has been handed down, as ... it listens to this, guards it scrupulously, and expounds it faithfully; and it draws from this one deposit of faith all that it proposes as being divinely revealed.”
->
+> 
 > – Second Vatican Council's Dogmatic Constitution _Dei Verbum_ and the _Catechism of the Catholic Church_
+{: .quote}
+{: .gray}

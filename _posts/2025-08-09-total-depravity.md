@@ -124,10 +124,10 @@ It may surprise some modern Arminians to learn that the Remonstrance asserted th
  
 
 > John 3:19 - ESV
-> 19 - And this is the judgment: the light has come into the world, and *people loved the darkness* rather than the light because their works were evil.
+> 
+> <sup> 19 </sup>And this is the judgment: the light has come into the world, and *people loved the darkness* rather than the light because their works were evil.
 
 > Romans 8:7-8 - LSB
->
 >
 > <sup> 7 </sup>because the mind set on the flesh is hostile toward God, for it does not subject itself to the law of God, for it is not even able <i>to do so</i>,
 > <sup> 8 </sup>and those who are in the flesh are not able to please God.
@@ -219,12 +219,12 @@ It may surprise some modern Arminians to learn that the Remonstrance asserted th
  
 
 > Psalm 130:3 - ESV
-> 3 - If you, O LORD, should mark iniquities, O Lord, *who could stand?*
-> 
+>
+> <sup> 3 </sup> - If you, O LORD, should mark iniquities, O Lord, *who could stand?* 
 
 > Psalm 143:2 - ESV
-> 2 - Enter not into judgment with your servant, *for no one living is righteous* before you.
-> 
+>
+> <sup> 2 </sup> - Enter not into judgment with your servant, *for no one living is righteous* before you. 
 
 > Proverbs 20:9 - LSB
 >
