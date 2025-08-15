@@ -12,7 +12,10 @@ image:
     alt: William Hammer - Green grapes (1878)
 ---
 
-But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control. Against such things there is no law. Galatians 5:22-23
+>  Galatians 5:22-23 - LSB
+>
+> <sup> 22 </sup>But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,
+> <sup> 23 </sup>gentleness, self-control. Against such things there is no law.
 
 ---
 

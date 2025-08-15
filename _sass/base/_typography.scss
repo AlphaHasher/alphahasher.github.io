@@ -3,6 +3,8 @@
 @use '../abstracts/mixins' as mx;
 @use '../abstracts/placeholders';
 
+$blockquote-text: #dfdfdf;
+
 @for $i from 1 through 5 {
   h#{$i} {
     @extend %heading;
@@ -60,18 +62,18 @@ blockquote {
   padding: 0.5rem 1rem;
   position: relative;
   margin: 1.5rem 0;
-  color: #e6edf3; // Light text color
+  color: $blockquote-text; // Light text color
 
-  // Left border "accent"
+  // Left border "accent" - default blue
   border-left: 4px solid #58a6ff;
 
-  // First paragraph as the title
+  // Default scripture styling - first paragraph as the scripture reference title
   & > p:first-child {
     position: relative;
     margin: 0 0 0.5rem 0;
     padding: 0 0 0 1.5rem;
     font-weight: bold;
-    color: #58a6ff;
+    color: #58a6ff; // default blue
     border-radius: 0.05rem;
 
     // Quotation icon positioned next to title
@@ -81,7 +83,7 @@ blockquote {
       top: 0;
       left: 0;
       font-size: 1.5rem;
-      color: #8b949e;
+      color: #9c9c9c;
     }
   }
 
@@ -89,20 +91,82 @@ blockquote {
   & > p:not(:first-child),
   & > *:not(:first-child) {
     margin-top: 0.5rem;
-    font-size: 0.95rem;
+    // font-size: 0.95rem;
     line-height: 1.5;
+  }
+
+  // Remove bottom margin from last element
+  & > *:last-child {
+    margin-bottom: 0;
+  }
+
+  // Override for regular quotes
+  &.quote {
+    & > p {
+      margin-top: 0.5rem;
+      // font-size: 0.99rem;
+      line-height: 1.5;
+      position: static;
+      padding: 0;
+      font-weight: normal;
+      color: $blockquote-text;
+
+      &:first-child {
+        margin-top: 0;
+      }
+
+      &:last-child {
+        margin-bottom: 0;
+      }
+
+      &::before {
+        display: none;
+      }
+    }
+  }
+
+  // Color variants
+  &.green {
+    border-left-color: #3fb950;
+  }
+
+  &.red {
+    border-left-color: #f85149;
+  }
+
+  &.orange {
+    border-left-color: #d29922;
+  }
+
+  &.purple {
+    border-left-color: #a5a5ff;
+  }
+
+  &.yellow {
+    border-left-color: #f9e71e;
+  }
+
+  &.pink {
+    border-left-color: #ff7eb6;
+  }
+
+  &.cyan {
+    border-left-color: #76e3ea;
+  }
+
+  &.gray {
+    border-left-color: #b1bac4;
   }
 
   // Citation (author + title)
   cite {
     display: block;
-    font-style: normal;
     font-weight: 600;
-    color: #c9d1d9;
+    color: $blockquote-text;
 
     em {
       font-style: italic;
-      color: #8b949e;
+      color: $blockquote-text;
     }
   }
 }
