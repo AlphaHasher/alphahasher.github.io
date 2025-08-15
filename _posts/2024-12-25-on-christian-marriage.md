@@ -21,10 +21,8 @@ The idea of love in our modern era is broken. When partners make their weddings 
 
 What is true love in a Christian marriage? In some ways I am unqualified to answer this question, not being married myself. However, following biblical principles and observing Christian marriages, I can make a few observations. Love is a good thing, and so is being in love with another person. However, to put it above Christ, to make it the basis of a whole life is idolatry. In the final analysis, it is just a feeling, and you cannot rely on it to last in its full intensity, or even to last at all. This is where most worldly people part ways with one another, but Christian marriage is held to a higher standard—Christ’s standard. When the Apostle Paul wrote on Christian marriage, he put Christs’ relationship with the church as the standard. Read what he wrote here in Ephesians 5:22-33,
 
-
-
-
-
+> Ephesians 5:22-33 - LSB
+>
 > Wives, *be subject* to your own husbands, as to the Lord. For the husband is the head of the wife, as Christ also is the head of the church, He Himself *being* the Savior of the body. But as the church is subject to Christ, so also the wives *ought to be* to their husbands in everything. Husbands, love your wives, just as Christ also loved the church and gave Himself up for her, so that He might sanctify her, having cleansed her by the washing of water with the word, that He might present to Himself the church in all her glory, having no spot or wrinkle or any such thing, but that she would be holy and blameless. So husbands ought also to love their own wives as their own bodies. He who loves his own wife loves himself; for no one ever hated his own flesh, but nourishes and cherishes it, just as Christ also *does* the church, because we are members of His body. For this reason a man shall leave his father and mother and be joined to his wife, and the two shall become one flesh. This mystery is great, but I am speaking with reference to Christ and the church. Nevertheless, each individual among you also is to love his own wife even as himself, and the wife must *see to it* that she respects her husband.
 
 
@@ -50,6 +48,11 @@ Earlier when I said that the feelings of love cannot be relied on to last foreve
 
 
 
-The Scottish theologian Sinclair Ferguson had this to say, “It’s the kind of sense that Ruth had about Boaz, isn’t it, that made her think he was the kind of man with whom she would be at home and safe and secure. It means that a young woman, or for that matter, an older woman, feels that this man will be my very best friend in all the world. Because you see, if you don’t respect him before you marry him, it’s very unlikely that you’ll respect him after you marry him.” If God willing, I take a wife, I promise to live worthy of her respect. It is not hard to see that when children live in a home where that is true, they’ll feel safe and loved, and they’ll also get a glimpse of the Lord Jesus and the love He has for His church.
+The Scottish theologian Sinclair Ferguson had this to say,
+> It’s the kind of sense that Ruth had about Boaz, isn’t it, that made her think he was the kind of man with whom she would be at home and safe and secure. It means that a young woman, or for that matter, an older woman, feels that this man will be my very best friend in all the world. Because you see, if you don’t respect him before you marry him, it’s very unlikely that you’ll respect him after you marry him.
+{: .quote}
+{: .gray}
+
+If God willing, I take a wife, I promise to live worthy of her respect. It is not hard to see that when children live in a home where that is true, they’ll feel safe and loved, and they’ll also get a glimpse of the Lord Jesus and the love He has for His church.
 
 

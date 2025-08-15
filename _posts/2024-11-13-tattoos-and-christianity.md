@@ -19,23 +19,14 @@ image:
 ## The Passages
 
 
-
-
-
-> Leviticus 19:28
-> 
-> 
-> 
-> 
-> And you shall not make any cuts in your body for the dead nor make any tattoo marks on yourselves: I am Yahweh.
-
-
-
-
-
-> Deuteronomy 14:1  
-> “You are the sons of Yahweh your God; you shall not gash yourselves nor shave your forehead for the sake of the dead.”
-
+>  Leviticus 19:28 - LSB
+>
+> <sup> 28 </sup>And you shall not make any cuts in your body for the dead nor make any tattoo marks on yourselves: I am Yahweh.
+ 
+>  Deuteronomy 14:1 - LSB
+>
+> <sup> 1 </sup>“You are the sons of Yahweh your God; you shall not gash yourselves nor shave your forehead for the sake of the dead.
+ 
 
 
 

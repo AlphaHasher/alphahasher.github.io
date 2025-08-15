@@ -57,11 +57,11 @@ img {
 }
 
 blockquote {
-  background-color: #131315; // Dark background
+  background-color: rgba(19, 19, 21, 0.7);
   border-radius: 0.5rem;
   padding: 0.5rem 1rem;
   position: relative;
-  margin: 1.5rem 0;
+  margin: 0.5rem 0 1rem 0;
   color: $blockquote-text; // Light text color
 
   // Left border "accent" - default blue
@@ -92,7 +92,7 @@ blockquote {
   & > *:not(:first-child) {
     margin-top: 0.5rem;
     // font-size: 0.95rem;
-    line-height: 1.5;
+    line-height: 1.6;
   }
 
   // Remove bottom margin from last element
