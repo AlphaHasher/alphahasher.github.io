@@ -9,20 +9,22 @@ $blockquote-text: #dfdfdf;
   h#{$i} {
     @extend %heading;
 
-    @if $i > 1 {
+    @if $i >1 {
       @extend %anchor;
     }
 
     @if $i < 5 {
       $size-factor: 0.25rem;
 
-      @if $i > 1 {
+      @if $i >1 {
         $size-factor: 0.18rem;
 
         main & {
-          @if $i == 2 {
+          @if $i ==2 {
             margin: 2.5rem 0 1.25rem;
-          } @else {
+          }
+
+          @else {
             margin: 2rem 0 1rem;
           }
         }
@@ -31,7 +33,9 @@ $blockquote-text: #dfdfdf;
       & {
         font-size: 1rem + (5 - $i) * $size-factor;
       }
-    } @else {
+    }
+
+    @else {
       font-size: 1.05rem;
     }
   }
@@ -63,15 +67,15 @@ blockquote {
   margin: 0.5rem 0 1rem 0;
 
   // Left border "accent" - default blue
-  border-left: 4px solid #58a6ff;
+  border-left: 4px solid var(--blockquote-accent-color, #58a6ff);
 
   // Default scripture styling - first paragraph as the scripture reference title
-  & > p:first-child {
+  &>p:first-child {
     position: relative;
     margin: 0 0 0.5rem 0;
     padding: 0 0 0 1.5rem;
     font-weight: bold;
-    color: #58a6ff; // default blue
+    color: var(--blockquote-title-color, #58a6ff);
     border-radius: 0.05rem;
 
     // Quotation icon positioned next to title
@@ -81,29 +85,32 @@ blockquote {
       top: 0;
       left: 0;
       font-size: 1.5rem;
+      color: var(--blockquote-title-color, #58a6ff);
     }
   }
 
   // Remaining content aligned with icon
-  & > p:not(:first-child),
-  & > *:not(:first-child) {
+  &>p:not(:first-child),
+  &>*:not(:first-child) {
     margin-top: 0.5rem;
     line-height: 1.6;
+    color: var(--blockquote-text-color);
   }
 
   // Remove bottom margin from last element
-  & > *:last-child {
+  &>*:last-child {
     margin-bottom: 0;
   }
 
   // Override for regular quotes
   &.quote {
-    & > p {
+    &>p {
       margin-top: 0.5rem;
       line-height: 1.5;
       position: static;
       padding: 0;
       font-weight: normal;
+      color: var(--blockquote-text-color);
 
       &:first-child {
         margin-top: 0;
@@ -121,46 +128,97 @@ blockquote {
 
   // Color variants
   &.green {
-    border-left-color: #3fb950;
+    --blockquote-accent-color: var(--blockquote-green-color);
+    --blockquote-title-color: var(--blockquote-green-color);
   }
 
   &.red {
-    border-left-color: #f85149;
+    --blockquote-accent-color: var(--blockquote-red-color);
+    --blockquote-title-color: var(--blockquote-red-color);
   }
 
   &.orange {
-    border-left-color: #d29922;
+    --blockquote-accent-color: var(--blockquote-orange-color);
+    --blockquote-title-color: var(--blockquote-orange-color);
   }
 
   &.purple {
-    border-left-color: #a5a5ff;
+    --blockquote-accent-color: var(--blockquote-purple-color);
+    --blockquote-title-color: var(--blockquote-purple-color);
   }
 
   &.yellow {
-    border-left-color: #f9e71e;
+    --blockquote-accent-color: var(--blockquote-yellow-color);
+    --blockquote-title-color: var(--blockquote-yellow-color);
   }
 
   &.pink {
-    border-left-color: #ff7eb6;
+    --blockquote-accent-color: var(--blockquote-pink-color);
+    --blockquote-title-color: var(--blockquote-pink-color);
   }
 
   &.cyan {
-    border-left-color: #76e3ea;
+    --blockquote-accent-color: var(--blockquote-cyan-color);
+    --blockquote-title-color: var(--blockquote-cyan-color);
   }
 
   &.gray {
-    border-left-color: #b1bac4;
+    --blockquote-accent-color: var(--blockquote-gray-color);
+    --blockquote-title-color: var(--blockquote-gray-color);
   }
 
   // Citation (author + title)
   cite {
     display: block;
     font-weight: 600;
+    color: var(--blockquote-text-color);
 
     em {
       font-style: italic;
     }
   }
+
+  &[class^='prompt-'] {
+    border-left: 0;
+    position: relative;
+    padding: 1rem 1rem 1rem 3rem;
+    color: var(--prompt-text-color);
+    border-radius: var(--border-radius, 0.375rem);
+
+    // Reset scripture styling for prompts
+    &>p:first-child {
+      position: static;
+      margin: 0 0 0.5rem 0;
+      padding: 0;
+      font-weight: normal;
+      color: var(--prompt-text-color);
+
+      &::before {
+        display: none;
+      }
+    }
+
+    &>p:last-child {
+      margin-bottom: 0;
+    }
+
+    @extend %rounded;
+
+    &::before {
+      text-align: center;
+      width: 3rem;
+      position: absolute;
+      left: 0.25rem;
+      margin-top: 0.4rem;
+      text-rendering: auto;
+      -webkit-font-smoothing: antialiased;
+    }
+  }
+
+  @include mx.prompt('tip', '\f0eb', $fa-style: 'regular');
+  @include mx.prompt('info', '\f06a', $rotate: 180);
+  @include mx.prompt('warning', '\f06a');
+  @include mx.prompt('danger', '\f071');
 }
 
 
@@ -212,6 +270,7 @@ footer {
 
 /* fontawesome icons */
 i {
+
   &.far,
   &.fas {
     @extend %no-cursor;
@@ -234,7 +293,7 @@ main {
   }
 
   p {
-    > a.popup {
+    >a.popup {
       &:not(.normal):not(.left):not(.right) {
         @include mx.align-center;
       }
@@ -251,7 +310,7 @@ main {
 
   @include bp.lte(bp.get(sm)) {
     .content {
-      > blockquote[class^='prompt-'] {
+      >blockquote[class^='prompt-'] {
         @include mx.ml-mr(-1rem);
 
         border-radius: 0;
@@ -261,18 +320,18 @@ main {
   }
 }
 
-.footnotes > ol {
+.footnotes>ol {
   padding-left: 2rem;
   margin-top: 0.5rem;
 
-  > li {
+  >li {
     &:not(:last-child) {
       margin-bottom: 0.3rem;
     }
 
     @extend %sup-fn-target;
 
-    > p {
+    >p {
       margin-left: 0.25em;
 
       @include mx.mt-mb(0);
@@ -307,7 +366,7 @@ main {
   overflow-x: auto;
   margin-bottom: 1.5rem;
 
-  > table {
+  >table {
     min-width: 100%;
     overflow-x: auto;
     border-spacing: 0;
@@ -336,6 +395,10 @@ main {
           @extend %table-cell;
         }
       }
-    } /* tbody */
-  } /* table */
+    }
+
+    /* tbody */
+  }
+
+  /* table */
 }
