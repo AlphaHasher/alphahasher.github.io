@@ -85,7 +85,7 @@ blockquote {
       top: 0;
       left: 0;
       font-size: 1.5rem;
-      color: var(--blockquote-title-color, #58a6ff);
+      color: var(--blockquote-gray-color);
     }
   }
 
@@ -129,42 +129,34 @@ blockquote {
   // Color variants
   &.green {
     --blockquote-accent-color: var(--blockquote-green-color);
-    --blockquote-title-color: var(--blockquote-green-color);
   }
 
   &.red {
     --blockquote-accent-color: var(--blockquote-red-color);
-    --blockquote-title-color: var(--blockquote-red-color);
   }
 
   &.orange {
     --blockquote-accent-color: var(--blockquote-orange-color);
-    --blockquote-title-color: var(--blockquote-orange-color);
   }
 
   &.purple {
     --blockquote-accent-color: var(--blockquote-purple-color);
-    --blockquote-title-color: var(--blockquote-purple-color);
   }
 
   &.yellow {
     --blockquote-accent-color: var(--blockquote-yellow-color);
-    --blockquote-title-color: var(--blockquote-yellow-color);
   }
 
   &.pink {
     --blockquote-accent-color: var(--blockquote-pink-color);
-    --blockquote-title-color: var(--blockquote-pink-color);
   }
 
   &.cyan {
     --blockquote-accent-color: var(--blockquote-cyan-color);
-    --blockquote-title-color: var(--blockquote-cyan-color);
   }
 
   &.gray {
     --blockquote-accent-color: var(--blockquote-gray-color);
-    --blockquote-title-color: var(--blockquote-gray-color);
   }
 
   // Citation (author + title)
